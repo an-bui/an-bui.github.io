@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Spartan"
+
+# Optional Google font URL
+google_fonts = "family=Spartan:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+# Font families
+heading_font = "Spartan"
+body_font = "Spartan"
+nav_font = "Spartan"
+mono_font = "Spartan"
