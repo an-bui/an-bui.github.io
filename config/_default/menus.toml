@@ -10,27 +10,27 @@
 
 [[main]]
   name = "Research"
-  url = "research"
+  url = "research/"
   weight = 20
 
 [[main]]
   name = "Teaching"
-  url = "content/"
+  url = "teaching/"
   weight = 30
 
-# [[main]]
-#   name = "CV"
-#   url = "#media/Bui_An-CV-2021-01.pdf"
-#   weight = 40
-
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 40
+  
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 50
+  name = "Field work"
+  url = "fieldwork/"
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "media/resume.pdf"
-    weight = 70
+    weight = 50

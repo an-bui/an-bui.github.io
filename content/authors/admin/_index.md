@@ -37,6 +37,4 @@ superuser: true
 title: An Bui
 ---
 
-I am a community ecologist at UC Santa Barbara in the Ecology, Evolution, and Marine Biology department.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a community ecologist at UC Santa Barbara in the Ecology, Evolution, and Marine Biology department. I use trait-based approaches to understand community responses to disturbance. Currently, I work in kelp forest systems in the [Santa Barbara Channel Long Term Ecological Research site](https://sbclter.msi.ucsb.edu/).
