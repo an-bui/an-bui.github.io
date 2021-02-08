@@ -8,7 +8,7 @@ education:
   - course: BSc in Ecology and Evolution, BA in English Literature
     institution: University of California, Santa Barbara
     year: 2015
-email: ""
+email: "an_bui@ucsb.edu"
 highlight_name: false
 interests:
 - Community ecology
@@ -34,7 +34,7 @@ social:
   icon_pack: fab
   link: https://github.com/an-bui
 superuser: true
-title: An Bui
+title: An Bui 
 ---
 
-I am a community ecologist at UC Santa Barbara in the Ecology, Evolution, and Marine Biology department. I use trait-based approaches to understand community responses to disturbance. Currently, I work in kelp forest systems in the [Santa Barbara Channel Long Term Ecological Research site](https://sbclter.msi.ucsb.edu/).
+I am a community ecologist at UC Santa Barbara in the Ecology, Evolution, and Marine Biology department. I use trait-based approaches to understand community responses to disturbance. Currently, I work in kelp forest systems focussing on algal recovery dynamics in the [Santa Barbara Channel Long Term Ecological Research site](https://sbclter.msi.ucsb.edu/).
