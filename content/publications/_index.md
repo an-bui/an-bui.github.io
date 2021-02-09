@@ -7,7 +7,7 @@ title: Publications
 view: 4
 ---
 
-**Please see my** {{% staticref "media/resume.pdf" "newtab" %}}CV{{% /staticref %}} **for a complete list of publications and talks.**  
+**Please see my** {{% staticref "media/cv-2021-02.pdf" "newtab" %}}CV{{% /staticref %}} **for a complete list of publications and talks.**  
 
 `4.` **Bui, A**, D Orr, M Lepori-Bui, K Konicek, HS Young, HV Moeller. “Soil fungal community composition and functional similarity shift across distinct climatic conditions.” _FEMS Microbiology Ecology._ 2020. {{% staticref "media/bui-2020.pdf" "newtab" %}}PDF{{% /staticref %}}.  
 Media coverage: [UCSB Current](https://www.news.ucsb.edu/2020/020119/ancient-alliance), [The Bottom Line](https://thebottomline.as.ucsb.edu/2021/01/can-fungi-save-the-planet)

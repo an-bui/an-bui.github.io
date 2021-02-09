@@ -24,13 +24,18 @@
   weight = 30
   
 [[main]]
+  name = "Data science"
+  url = "data-science/"
+  weight = 40
+  
+[[main]]
   name = "Field work"
   url = "fieldwork/"
-  weight = 40
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "media/cv-2021-02.pdf"
-    weight = 50
+    weight = 60
