@@ -15,7 +15,7 @@ This is a workshop on basic tools for community analysis in `vegan` that was giv
 - Github repository  
 
 ### Putting the FUN in functions
-This is a workshop on writing functions in R, with editing from Sam Csik and Juliette Verstaen.  
+This is a workshop on writing functions in R, with editing from [Sam Csik](https://github.com/samanthacsik) and [Juliette Verstaen](https://www.julietteverstaen.com/).  
 - [RPubs](https://rpubs.com/an-bui/fun-functions)  
 - [Github repository](https://github.com/an-bui/RLadiesSB-FUNctions)  
 - [learnr tutorial](https://an-bui.shinyapps.io/FUNctions-learnR/)
@@ -23,7 +23,7 @@ This is a workshop on writing functions in R, with editing from Sam Csik and Jul
 ## Packages
 
 ### `calecopal`: a California-inspired package of color palettes
-This is a collection of 45 color palettes, all inspired by California ecosystems. This was built with Heili Lowman and Ana Sofia Guerra, and code was taken directly from Karthik Ram's `wesanderson` package.
+This is a collection of 45 color palettes, all inspired by California ecosystems. This was built with [Heili Lowman](https://www.heililowman.com/) and [Ana Sofia Guerra](https://www.anasofiaguerra.com/), and code was taken directly from Karthik Ram's `wesanderson` package.
 - [Github repository](https://github.com/an-bui/calecopal)
 
 ## Publications
