@@ -12,8 +12,8 @@ view: 4
 `4.` **Bui, A**, D Orr, M Lepori-Bui, K Konicek, HS Young, HV Moeller. “Soil fungal community composition and functional similarity shift across distinct climatic conditions.” _FEMS Microbiology Ecology._ 2020. {{% staticref "media/bui-2020.pdf" "newtab" %}}PDF{{% /staticref %}}.  
 Media coverage: [UCSB Current](https://www.news.ucsb.edu/2020/020119/ancient-alliance), [The Bottom Line](https://thebottomline.as.ucsb.edu/2021/01/can-fungi-save-the-planet)
 
-`3.` Miller-ter Kuile, A, D Orr, **A Bui**, R Dirzo, M Klope, DJ McCauley, C Motta, HS Young. “Impacts of rodent eradication on seed predation and plant community biomass.” _Biotropica_. 2020.  
-Media coverage: [UCSB Current](https://www.news.ucsb.edu/2020/020085/plot-twist), [The Economist](https://www.economist.com/science-and-technology/2020/10/31/kill-one-unwanted-species-and-another-arises), [Atlas Obscura](https://www.atlasobscura.com/articles/rats-coconuts-palmyra-atoll)
+`3.` Miller-ter Kuile, A, D Orr, **A Bui**, R Dirzo, M Klope, DJ McCauley, C Motta, HS Young. “Impacts of rodent eradication on seed predation and plant community biomass.” _Biotropica_. 2020. {{% staticref "media/miller-ter-kuile-2020.pdf" "newtab" %}}PDF{{% /staticref %}}    
+Media coverage: [UCSB Current](https://www.news.ucsb.edu/2020/020085/plot-twist), [The Economist](https://www.economist.com/science-and-technology/2020/10/31/kill-one-unwanted-species-and-another-arises), [Atlas Obscura](https://www.atlasobscura.com/articles/rats-coconuts-palmyra-atoll)  
 
 `2.` Lafferty, KD, JP McLaughlin, DS Gruner, TA Bogar, **A Bui**, JN Childress, M Espinosa, ES Forbes, CA Johnston, M Klope, A Miller-ter Kuile, M Lee, KA Plummer, DA Weber, RT Young, HS Young. “Secondary extinction of Asian tiger mosquitoes (Aedes albopictus) following rat eradication on Palmyra Atoll.” _Biology Letters._ 2018. {{% staticref "media/lafferty-2018.pdf" "newtab" %}}PDF{{% /staticref %}}.   
 Media coverage: [The Scientist](https://www.the-scientist.com/news-opinion/paradise-regained-how-the-palmyra-atoll-got-rid-of-invasive-mosquitoes-30063)  
