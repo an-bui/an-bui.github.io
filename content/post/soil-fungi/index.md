@@ -9,18 +9,19 @@ summary: A large part of ecosystem function in woodland systems depends on soil 
 date: "2020-09-22"
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Sampling site.'
+  alt_text: 'Sampling site.'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 ---
 
-A large part of ecosystem function in woodland systems depends on soil fungal communities. However, global climate change has the potential to fundamentally alter these communities as fungal species are filtered with changing environmental conditions. Therefore, a fundamental question is: Will fungal communities continue to provide the same functions under the stress of climate change?
+A large part of ecosystem function in woodland systems depends on soil fungal communities. However, global climate change has the potential to fundamentally alter these communities as fungal species are filtered with changing environmental conditions. Therefore, a fundamental question is: Will fungal communities continue to provide the same functions under the stress of climate change?  
 
 I had the privilege of being able to answer this question by working in unceded Kawaiisu territory, or the Tehachapi Mountains in south-central California with a collaborator, [Devyn Orr](https://devynorr.weebly.com/). In this study, we examined the potential effects of climate on host-associated (i.e. tree-associated) soil fungal communities at climatically distinct sites, where more arid conditions represent likely regional climate futures. We found that soil fungal community composition changes strongly across sites, with species richness and diversity being highest at the most arid site.  
 
